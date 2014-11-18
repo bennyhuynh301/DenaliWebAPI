@@ -3,4 +3,4 @@
 ChopChore/migrations/*
 !ChopChore/migrations/__init__.py
 ActivityLogs/*
-db.sqllite3
+db.sqlite3
