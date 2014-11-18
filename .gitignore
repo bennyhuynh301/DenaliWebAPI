@@ -1,5 +1,6 @@
 *.pyc
 .idea/*
 ChopChore/migrations/*
+!ChopChore/migrations/__init__.py
 ActivityLogs/*
 db.sqllite3
