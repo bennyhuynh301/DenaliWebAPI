@@ -1,5 +1,5 @@
 *.pyc
 *.idea
-*./ChopChore/migrations
-*./ActivityLogs
+*./ChopChore/migrations/
+*./ActivityLogs/
 *./db.sqllite3
